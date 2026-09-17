@@ -4,6 +4,8 @@
 
 ### Further skills in MySQL, React, Vue, TypeScript, Inertia, Livewire, Tailwind CSS and more.
 
+These repositories are basic sample code and do not relect the full capabilities of my work. More advanced code is restricted from public view due to client confidentiality agreements.
+
 #### Laravel Dating App
 
 Links
@@ -11,6 +13,8 @@ Links
 - [repository](https://github.com/kashbhatti/dating_laravel_old)
 
 Features
+- Livewire front end with Tailwind CSS and AlpineJS
+- Laravel backend with MySQL database
 - Geocoding and distance calculation using Nominatim API
 - Real-time chat built with Livewire and Reverb WebSocket communications
 - Profile images upload and management with Spatie Media Library and Filepond including HEIF/HEIC conversion
@@ -18,6 +22,7 @@ Features
 - Multi language support with Spatie Translations
 - Admin panel built with Filament
 - AWS hosting with CloudFlare CDN, DNS and SSL
+- AI assisted development with Claude, Junie and CoPilot
 
 #### Laravel React Chat App
 
@@ -30,3 +35,28 @@ Features
 - ReactJS, TypeScript frontend with Inertia.js
 - Laravel backend with MySQL database
 - AWS hosting with CloudFlare CDN, DNS and SSL
+- AI assisted coding with Claude and CoPilot
+
+#### Symfony with Vue Todo App
+
+Links
+- [repository](https://github.com/kashbhatti/vue_todo)
+
+Features
+- VueJS frontend (TypeScript, components and composables)
+- Symfony (Flex and Turbo) API backend with MySQL database
+- Symfony standard files Entity, Repository, Controller, FormType, Enum, Factory, Fixture, Twig templates and components.
+- Unit tests built with Pest 5
+- AI assisted coding with Claude and CoPilot
+
+#### Laravel with Vue search
+
+Links
+- [repository](https://github.com/kashbhatti/laravel_search)
+
+This is mainly a front end demo of AJAX product searching functionality that was originally intended to be sold as a Magento ecommerce plugin. The AJAX search triggers an API call to the backend to query the MySQL database.
+
+Features
+- VueJS frontend
+- SASS styling with BEM naming convention
+- Laravel API backend with MySQL database
