@@ -40,6 +40,7 @@ Features
 #### Symfony with Vue Todo App
 
 Links
+- [demo](https://todo.preview1.co.uk/)
 - [repository](https://github.com/kashbhatti/vue_todo)
 
 Features
@@ -52,6 +53,7 @@ Features
 #### Laravel with Vue search
 
 Links
+- [demo](https://search.preview1.co.uk/)
 - [repository](https://github.com/kashbhatti/laravel_search)
 
 This is mainly a front end demo of AJAX product searching functionality that was originally intended to be sold as a Magento ecommerce plugin. The AJAX search triggers an API call to the backend to query the MySQL database.
