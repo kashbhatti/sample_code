@@ -6,6 +6,29 @@
 
 These repositories are basic sample code and do not relect the full capabilities of my work. More advanced code is restricted from public view due to client confidentiality agreements.
 
+#### Laravel API sample code
+
+Links
+- [repository](https://github.com/kashbhatti/expenxive_sample)
+
+Features
+- Livewire Actions
+- Service Classes
+- Mail
+- Notifications
+- Jobs
+- Enums
+- Models
+- Controllers
+- Console Commands
+- Requests
+- Resources
+- Interfaces
+- Data Transfer Objects
+- Repositories
+- Filament Admin
+- Middleware
+
 #### Laravel Dating App
 
 Links
