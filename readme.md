@@ -12,7 +12,7 @@ Links
 - [repository](https://github.com/kashbhatti/expenxive_sample)
 
 Features
-- Livewire Actions
+- Action Classes
 - Service Classes
 - Mail
 - Notifications
