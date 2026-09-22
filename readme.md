@@ -16,7 +16,7 @@ Features
 - Service Classes
 - Mail
 - Notifications
-- Jobs
+- Jobs & Queues
 - Enums
 - Models
 - Controllers
